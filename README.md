@@ -4,7 +4,7 @@ This android app was fully realized as a project for the end of year exam, it al
 ## Disclaimer
 The project was developed when I was almost 18 years old, obviously I was learning and the code will probably be messy, not clear and with non-English comments or constructs.
 
-## Phases of creation
+## Design phases
 ### 1. Brainstorming and ER Model
 I used XMind for brainstorming and for building concept maps subsequently implemented in the Database.
 <p align="center">
