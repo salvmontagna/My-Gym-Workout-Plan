@@ -14,4 +14,5 @@ First of all, the conceptual map was created with XMind, then the prototype and 
 <p align="center">
   <img width="700" height="400" src="https://github.com/svtmontagna/My-Gym---Workout-Plan/blob/main/images/er-model.png?raw=true">
 </p>
+As can be seen from the ER model, a user can create a tab that can contain the type of exercise (which in turn will be linked to the muscle entity to understand which muscle group it is aimed at), number of sets and repetitions.
 
