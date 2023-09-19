@@ -8,8 +8,7 @@ The project was developed when I was almost 18 years old, obviously I was learni
 ### 1. Brainstorming and ER Model
 I used XMind for brainstorming and for building concept maps subsequently implemented in the Database.
 <p align="center">
-  <img width="500" height="300" src="https://github.com/svtmontagna/My-Gym---Workout-Plan/blob/main/images/concept.png?raw=true
-">
+  <img width="500" height="300" src="https://github.com/svtmontagna/My-Gym---Workout-Plan/blob/main/images/concept.png?raw=true">
 </p>
 
 ### 2. Mockups, UI and UX
