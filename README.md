@@ -6,10 +6,8 @@ The project was developed when I was almost 18 years old, obviously I was learni
 
 ## Phases of creation
 First of all, the conceptual map was created with XMind, then the prototype and mockups were created with Balsamiq and finally the development of the app with the creation of the tables and data in SQL and the application in Android Studio.
-## ER Model
 <p align="center">
-  <img width="600" height="600" src="https://github.com/svtmontagna/My-Gym---Workout-Plan/blob/main/images/mockups.png?raw=true
-">
+  <img width="600" height="600" src="https://github.com/svtmontagna/My-Gym---Workout-Plan/blob/main/images/mockups.png?raw=true">
 </p>
 
 ## ER Model
