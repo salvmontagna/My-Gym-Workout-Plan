@@ -5,7 +5,7 @@ This android app was fully realized as a project for the end of year exam, it al
 The project was developed when I was almost 18 years old, obviously I was learning and the code will probably be messy, not clear and with non-English comments or constructs.
 
 ## Design phases
-### 1. Brainstorming and ER Model
+### 1. Brainstorming
 I used XMind for brainstorming and for building concept maps subsequently implemented in the Database.
 <p align="center">
   <img width="400" height="200" src="https://github.com/svtmontagna/My-Gym-Workout-Plan/blob/main/images/concept.png?raw=true">
@@ -17,7 +17,7 @@ I used Balsamiq Mockups to create optimal application mockups from a UI and UX p
   <img width="500" height="300" src="https://github.com/svtmontagna/My-Gym-Workout-Plan/blob/main/images/mockups.png?raw=true">
 </p>
 
-### 3. Backend
+### 3. Backend and ER Model
 I created the database and the various tables based on the conceptual map created with XMind and subsequently developed the API in PHP to insert and withdraw data from the database and pass it to the application.
 <p align="center">
   <img width="700" height="400" src="https://github.com/svtmontagna/My-Gym-Workout-Plan/blob/main/images/er-model.png?raw=true">
