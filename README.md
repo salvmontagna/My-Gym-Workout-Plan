@@ -10,7 +10,7 @@ First of all, the conceptual map was created with XMind, then the prototype and 
   <img width="500" height="300" src="https://github.com/svtmontagna/My-Gym---Workout-Plan/blob/main/images/mockups.png?raw=true">
 </p>
 
-## ER Model
+### ER Model
 <p align="center">
   <img width="700" height="400" src="https://github.com/svtmontagna/My-Gym---Workout-Plan/blob/main/images/er-model.png?raw=true">
 </p>
