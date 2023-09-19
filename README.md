@@ -26,6 +26,7 @@ As can be seen from the ER model, a user can create a tab that can contain the t
 
 ### 4. Frontend
 I created the app on Android studio (Java) based on the mockups created with Balsamiq Mockups, manipulating the data through the previously created APIs.
+>tabstarting2.xml
 <p align="center">
   <img width="350" height="600" src="https://github.com/svtmontagna/My-Gym---Workout-Plan/blob/main/images/app.png?raw=true">
 </p>
