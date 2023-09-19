@@ -2,7 +2,7 @@
 This android app was fully realized as a project for the end of year exam, it allows you to manage your workout plan (unfortunately it was designed in single frequency) and was developed in Android Studio (Java), PHP and SQL (MariaDB).
 
 ## Disclaimer
-The project was developed when I was almost 18 years old, obviously I was learning and the code will probably be messy, not clear and with non-English comments or constructs.
+The project was developed when I was almost 18 years old, obviously I was learning and the code will probably be messy, not clear, not indented and with non-English comments or constructs.
 
 ## Design phases
 ### 1. Brainstorming
