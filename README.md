@@ -25,4 +25,9 @@ I created the database and the various tables based on the conceptual map create
 As can be seen from the ER model, a user can create a tab that can contain the type of exercise (which in turn will be linked to the muscle entity to understand which muscle group it is aimed at), number of sets and repetitions.
 
 ### 4. Frontend
+I created the app on Android studio (Java) based on the mockups created with Balsamiq Mockups, manipulating the data through the previously created APIs.
+<p align="center">
+  <img width="300" height="600" src="https://github.com/svtmontagna/My-Gym---Workout-Plan/blob/main/images/app.png?raw=true">
+</p>
+
 
