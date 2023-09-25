@@ -75,24 +75,7 @@ public class Tab extends AppCompatActivity  {
         gruppo2.setEnabled(true);
         gruppo2.setKeyListener(null);
         token=getIntent().getExtras();
-
-        MobileAds.initialize(this,"ca-app-pub-3255746612546275~3713289009");
-        final InterstitialAd interstitialAd=new InterstitialAd(this);
-        //interstitialAd.setAdUnitId("ca-app-pub-3255746612546275/2902005875");
-        interstitialAd.setAdUnitId("ca-app-pub-3255746612546275/2902005875");
-        interstitialAd.loadAd(new AdRequest.Builder().build());
-
-        interstitialAd.setAdListener(new AdListener() {
-            public void onAdLoaded() {
-                Handler handler = new Handler();
-                handler.postDelayed(new Runnable() {
-                    public void run() {
-                        interstitialAd.show();
-                    }
-                }, 2000);
-            }}  );
-
-
+        
         completeTab.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
                 Intent intent = new Intent(getBaseContext(), TabComplete.class);
