@@ -6,7 +6,7 @@ The project was developed when I was almost 18 years old, obviously I was learni
 
 ## Design phases
 ### 1. Brainstorming
-I used XMind for brainstorming and for building concept maps subsequently implemented in the Database.
+I used XMind for brainstorming and for concept maps subsequently implemented in the Database.
 <p align="center">
   <img width="400" height="200" src="https://github.com/svtmontagna/My-Gym-Workout-Plan/blob/main/images/concept.png?raw=true">
 </p>
